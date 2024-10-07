@@ -1,3 +1,5 @@
+TRY IT : https://suyashi-agarwal.github.io/GenieX/
+
 This is your very own virtual assistant genie.
 What will it do for you?
 - Greet you :P
